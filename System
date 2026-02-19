@@ -1,6 +1,5 @@
 {
-  "crash": false,
-  "message": " Crashed by Admin!",
-  "version": "1.0"
+  "crash": true,
+  "message": "🚫 App Band kar diya gaya hai!",
+  "delay": 3000
 }
-
