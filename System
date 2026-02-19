@@ -1,5 +1,5 @@
 {
-  "crash": false,
+  "crash": true,
   "message": " App Band kar diya gaya hai!",
   "delay": 3000
 }
