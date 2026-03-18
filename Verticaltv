@@ -2,6 +2,6 @@
   "crash": false,
   "message": "🚫 App Band Hai!",
   "success_msg": "✅ Mod Working Fine!",
-  "show_success_toast": false,
+  "show_success_toast": true,
   "delay": 3000
 }
