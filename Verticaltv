@@ -1,5 +1,5 @@
 {
-  "crash": true,
+  "crash": false,
   "message": "🚫 App Band Hai!",
   "success_msg": "✅ Mod Working Fine!",
   "show_success_toast": true,
